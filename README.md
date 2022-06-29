@@ -1,2 +1,2 @@
 # quiz-game
-web deveolpement project quiz gamed
+web deveolpement project quiz game
